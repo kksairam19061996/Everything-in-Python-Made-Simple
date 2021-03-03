@@ -1,0 +1,5 @@
+print("#"*50)
+print("Welcome to com_with_comments_in_init package")
+print("__init__.py will automatically perform the activity defined in it.")
+print("This is to demonstrate the activity of __init__.py")
+print("#"*50)

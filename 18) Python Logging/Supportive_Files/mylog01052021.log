@@ -1,0 +1,23 @@
+01/05/2021 04:16:57 PM:INFO: A New Request Came
+01/05/2021 04:17:00 PM:ERROR: division by zero
+Traceback (most recent call last):
+  File "<ipython-input-2-175634325f23>", line 10, in <module>
+    print("The Result:",x/y)
+ZeroDivisionError: division by zero
+01/05/2021 04:17:00 PM:INFO: A Request Processing Completed
+01/05/2021 04:17:17 PM:INFO: A New Request Came
+01/05/2021 04:17:22 PM:INFO: A Request Processing Completed
+01/05/2021 04:17:47 PM:INFO: A New Request Came
+01/05/2021 04:17:52 PM:ERROR: invalid literal for int() with base 10: 'one'
+Traceback (most recent call last):
+  File "<ipython-input-4-175634325f23>", line 9, in <module>
+    y=int(input("Enter Second Number:"))
+ValueError: invalid literal for int() with base 10: 'one'
+01/05/2021 04:17:52 PM:INFO: A Request Processing Completed
+01/05/2021 04:22:24 PM:INFO: A New Request Came
+01/05/2021 04:22:30 PM:ERROR: division by zero
+Traceback (most recent call last):
+  File "<ipython-input-5-175634325f23>", line 10, in <module>
+    print("The Result:",x/y)
+ZeroDivisionError: division by zero
+01/05/2021 04:22:30 PM:INFO: A Request Processing Completed

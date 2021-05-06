@@ -1,0 +1,5 @@
+05/05/2021 08:31:18 PM:CRITICAL:f1 logger:It is a critical message from f1
+05/05/2021 08:31:18 PM:ERROR:f1 logger:It is error message from f1
+05/05/2021 08:31:18 PM:WARNING:f1 logger:It is warning message from f1
+05/05/2021 08:31:18 PM:INFO:f1 logger:It is info message from f1
+05/05/2021 08:31:18 PM:DEBUG:f1 logger:It is debug message from f1

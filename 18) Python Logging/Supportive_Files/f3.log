@@ -1,0 +1,4 @@
+05/05/2021 08:31:18 PM:CRITICAL:f3 logger:It is a critical message from f3
+05/05/2021 08:31:18 PM:ERROR:f3 logger:It is error message from f3
+05/05/2021 08:31:18 PM:WARNING:f3 logger:It is warning message from f3
+05/05/2021 08:31:18 PM:INFO:f3 logger:It is info message from f3

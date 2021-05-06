@@ -1,0 +1,5 @@
+06/05/2021', '06:30:50 AM:demologger:CRITICAL:It is a critical message
+06/05/2021', '06:30:50 AM:demologger:ERROR:It is error message
+06/05/2021', '06:30:50 AM:demologger:WARNING:It is warning message
+06/05/2021', '06:30:50 AM:demologger:INFO:It is info message
+06/05/2021', '06:30:50 AM:demologger:DEBUG:It is debug message

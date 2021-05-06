@@ -1,0 +1,5 @@
+04/05/2021 07:29:34 AM:CRITICAL:testlogger:It is a critical message
+04/05/2021 07:29:34 AM:ERROR:testlogger:It is error message
+04/05/2021 07:29:34 AM:WARNING:testlogger:It is warning message
+04/05/2021 07:29:34 AM:INFO:testlogger:It is info message
+04/05/2021 07:29:34 AM:DEBUG:testlogger:It is debug message

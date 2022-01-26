@@ -1,5 +1,7 @@
 # Everything-in-Python-Made-Simple
 Complete end to end Python Tutorials will be covered in this repository. Make your time to get the most of this repository.
+I Would like to thank Durga Sir from the udemy course "Learn Complete Python in a Simple Way" and Fred Baptiste from Udemy Courses "Python 3 Deep Dive Part-1,Part-2,Part-3,Part-4".
+All The Content I have created in this notebooks are reffered from the above courses and some online materials and I collabarated concepts in single notebook for every topic.
 
 This Python Course will cover the following Topics:
 1) Introduction to Python
